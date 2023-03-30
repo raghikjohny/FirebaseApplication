@@ -1,0 +1,2 @@
+# FirebaseApplication
+Firebase authentication app
